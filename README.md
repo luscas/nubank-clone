@@ -10,16 +10,16 @@
 
 ## Install
 
-```sh
-flutter clean
-flutter packages get
-flutter run
+```console
+foo@bar:~$ flutter clean
+foo@bar:~$ flutter packages get
+foo@bar:~$ flutter run
 ```
 
 ## Run tests
 
-```sh
-flutter test
+```console
+foo@bar:~$ flutter test
 ```
 
 ## Author

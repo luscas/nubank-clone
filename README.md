@@ -6,7 +6,7 @@
 </p>
 
 ## Screenshot
-![enter image description here](https://image.prntscr.com/image/ZHAAasgYTUyhk3yskKzM-g.png)
+![ScreenShot Home Page](https://i.imgur.com/VEOI8BQ.png)
 
 ## Install
 

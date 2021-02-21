@@ -1,0 +1,37 @@
+name: nubank
+description: Nubank Clone
+author: Lucas Paz
+github: github.com/luscas
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter_svg: ^0.18.1
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+  fonts:
+    - family: Graphik
+      fonts:
+        - asset: assets/fonts/Graphik-Regular.ttf
+        - asset: assets/fonts/Graphik-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Graphik-Semibold.ttf
+          weight: 600
+    - family: Helvetica Neue
+      fonts:
+        - asset: assets/fonts/Helvetica-Neue.ttf
+        - asset: assets/fonts/Helvetica-Neue-Medium.ttf
+          weight: 600
+        - asset: assets/fonts/Helvetica-Neue-Bold.ttf
+          weight: 700
